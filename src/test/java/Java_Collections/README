@@ -1,3 +1,9 @@
 1. String_Frequencies
    Frequency of Characters: Write a return method that can find the frequency of characters.
    Ex:  FrequencyOfChars("AAABBCDD") ==> A3B2C1D2
+   5
+
+2.	Same letters: Write a return method that check if a string is build out of the same letters as another string.
+    Solution 1: Same number of letters
+    Ex:  same("abc",  "cab"); -> true
+         same("abc",  "abb"); -> false
